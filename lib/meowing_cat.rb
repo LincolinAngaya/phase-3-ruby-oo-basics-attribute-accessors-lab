@@ -4,5 +4,7 @@ class Cat
 
    def meow
      puts "meow!"
+
+    nncx
    end
 end
